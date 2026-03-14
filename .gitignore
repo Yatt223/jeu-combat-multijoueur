@@ -1,0 +1,17 @@
+# Fichiers compiles Java
+out/
+*.class
+
+# Fichiers IDE
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+
+# Fichiers systeme Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers systeme Mac
+.DS_Store
